@@ -7,6 +7,7 @@ My current thesis work at the Helmholtz Institute for Pharmaceutical Research Sa
 ## Selected work
 
 - **[AFM Explorer](https://github.com/KashishMendiratta/afm-explorer)** - A tested, cloud-deployed platform for Atomic Force Microscopy analysis, with FastAPI, Streamlit, classical and supervised ML, Docker, AWS, CI/CD, and an MCP tool interface. [Live demo](https://afm.kashishmendiratta.com)
+- **[Multilingual Spoken Language Identification](https://github.com/KashishMendiratta/Multilingual_Speech_Language_Identification)** - Fine-tuned MMS-300M and XLS-R for 22 Indian languages, diagnosing speaker shortcuts and improving top-1 accuracy to 43.4% with targeted augmentation.
 - **[Scaling DataSAIL](https://github.com/KashishMendiratta/DataSAIL_scaling)** - A balance-aware approximation for leakage-conscious molecular dataset splitting, reducing large-dataset runtime while preserving split quality.
 - **[Scribble-Supervised Image Segmentation](https://github.com/KashishMendiratta/Binary_Image_Segmentation)** - Classical and deep-learning segmentation from sparse labels, combining GrabCut and a compact U-Net to reach 75.8% mIoU.
 
